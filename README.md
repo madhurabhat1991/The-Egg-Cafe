@@ -22,7 +22,7 @@ The Egg Cafe is a responsive website designed for a cafe shop.
 - Cafe open hours
 - Embedded Google map showing the real time loaction of the cafe
 
-##Execution
+## Execution
 
 - Download wwwroot folder to your machine
 - Double click on "EggCafeHomePage.html" file to run the website application
