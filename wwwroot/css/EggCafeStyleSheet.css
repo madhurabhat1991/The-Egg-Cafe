@@ -1,0 +1,121 @@
+﻿body {
+    margin: 20px 0px;
+    min-height: 2000px;
+    padding-top: 100px;
+    background-color: lavender;
+    font-family: 'Book Antiqua', 'Lucida Bright', 'Baskerville Old Face';
+}
+
+.bg-light {
+    background-color: lavender !important;
+}
+
+.navbar-brand {
+    opacity: 1;
+    transition: opacity .5s ease-out;
+    -moz-transition: opacity .5s ease-out;
+    -webkit-transition: opacity .5s ease-out;
+    -o-transition: opacity .5s ease-out;
+}
+
+    .navbar-brand:hover {
+        opacity: .75;
+    }
+
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 1px;
+}
+
+.navbar-brand img {
+    width: 50px;
+}
+
+.carousel .carousel-caption {
+    font-family: 'Lucida Bright', 'Book Antiqua', 'Lucida Bright', 'Baskerville Old Face';
+    font-size: xx-large;
+    color: white;
+    text-align: left;
+}
+
+.carousel .carousel-item {
+    height: 450px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    /*min-height: 300px;*/
+    /*margin-top: -200px;*/
+    opacity: 0.85;
+}
+
+.about-us {
+    text-align: center;
+}
+
+.img-bar-by {
+    margin: 30px;
+    max-width: 50px;
+}
+
+.menu-section {
+    background-color: antiquewhite;
+}
+
+    .menu-section .col-sm-8 {
+        padding: 35px;
+        padding-left: 100px;
+    }
+
+.menu-heading {
+    font-weight: bold;
+}
+
+.menu_name {
+    font-weight: bold;
+}
+
+.menu_desc {
+    padding: 5px;
+    font-style: italic;
+    font-weight: normal;
+    color: darkslategray;
+}
+
+.menu-section .col-sm-4 img {
+    height: 100%;
+    -webkit-transform: scale(1.3);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+
+.menu-section .col-sm-4:hover img {
+    -webkit-transform: scale(1);
+    transform: scale(0.95);
+}
+
+.location-section {
+    padding: 60px;
+    background-color: antiquewhite;
+}
+
+.logo_img {
+    width: 20px;
+    opacity: 0.75;
+}
+
+.location_text {
+    text-decoration: none;
+    color: black;
+}
+
+.location-section .col-sm-4 img{
+    height: 100%;
+}
+.map_img {
+    width: 100%;
+    height: 450px;
+}
