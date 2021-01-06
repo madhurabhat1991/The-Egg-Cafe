@@ -24,5 +24,5 @@ The Egg Cafe is a responsive website designed for a cafe shop.
 
 ## Execution
 
-- Download wwwroot folder to your machine
+- Download "wwwroot" folder to your machine
 - Double click on "EggCafeHomePage.html" file to run the website application
